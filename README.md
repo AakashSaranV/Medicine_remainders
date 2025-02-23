@@ -1,3 +1,3 @@
 # Medicine_remainders
 
-#This is prototype of the Mobile Application for Patient Reminders
+#This is a prototype of the Mobile Application for Patient Reminders
